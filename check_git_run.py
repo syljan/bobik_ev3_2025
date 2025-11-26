@@ -8,7 +8,7 @@ import os
 
 GITHUB_RAW_URLS = [
 
-    "https://raw.githubusercontent.com/syljan/repository/bobik_ev3_2025/blob/master/motortest.py",
+    "https://raw.githubusercontent.com/syljan/repository/bobik_ev3_2025/blob/master/motortest_2_.py",
 
 
 ]
