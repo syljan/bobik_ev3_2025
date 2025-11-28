@@ -16,7 +16,7 @@ GITHUB_RAW_URLS = [
 LOCAL_DIR = "./downloaded_scripts"
 
  
-
+'''
 # Create local directory if not exists
 
 os.makedirs(LOCAL_DIR, exist_ok=True)
@@ -58,3 +58,5 @@ for url in GITHUB_RAW_URLS:
             exec(code, {})  # Executes in an isolated dictionary
 
    
+            
+            '''
